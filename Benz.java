@@ -12,6 +12,7 @@ public class Benz {
             }
             else {
                 System.out.println("number is odd,number."+num);
+                System.out.println("funny");
             }
         }
 
